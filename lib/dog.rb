@@ -5,4 +5,6 @@ class Dog
   def name
     @name
   end
-  def name=()
+  def name=(new_name)
+    @name = new name 
+  end
